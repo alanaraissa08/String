@@ -41,3 +41,4 @@ function contaFrequencias(palavras) {
 
   return frequencias;
 }
+import { PALAVRAS_RUINS } from "./palavrasRuins.js";
